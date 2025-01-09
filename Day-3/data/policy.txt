@@ -1,7 +1,0 @@
-[
-  {
-    "policyId": "P015",
-    "policyName": "Travel Insurance",
-    "premium": 10000
-  }
-]
